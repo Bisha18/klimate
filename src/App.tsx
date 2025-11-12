@@ -5,8 +5,7 @@ import {WeatherDashboard} from "./pages/weather-dashboard";
 import {CityPage} from "./pages/city-page";
 import {
   QueryClient,
-  QueryClientProvider,
-  useQuery,
+  QueryClientProvider
 } from "@tanstack/react-query";
 
 import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
