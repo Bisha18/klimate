@@ -228,8 +228,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📊 Project Status
 
 This project is actively maintained and regularly updated with new features and improvements.
-
-
-Made with ❤️ by Bishal Paul
-
-</div>
